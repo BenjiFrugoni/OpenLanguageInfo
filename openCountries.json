@@ -1,0 +1,1257 @@
+{
+    "AC": {
+        "iso3166": "AC",
+        "name": "Ascension",
+        "dependsfrom": "GB",
+        "dependsname": "United Kingdom"
+    },
+    "AD": {
+        "iso3166": "AD",
+        "name": "Andorra"
+    },
+    "AE": {
+        "iso3166": "AE",
+        "name": "United Arab Emirates"
+    },
+    "AF": {
+        "iso3166": "AF",
+        "name": "Afghanistan"
+    },
+    "AG": {
+        "iso3166": "AG",
+        "name": "Antigua and Barbuda"
+    },
+    "AI": {
+        "iso3166": "AI",
+        "name": "Anguilla",
+        "dependsfrom": "GB",
+        "dependsname": "United Kingdom"
+    },
+    "AL": {
+        "iso3166": "AL",
+        "name": "Albania"
+    },
+    "AM": {
+        "iso3166": "AM",
+        "name": "Armenia"
+    },
+    "AO": {
+        "iso3166": "AO",
+        "name": "Angola"
+    },
+    "AQ": {
+        "iso3166": "AQ",
+        "name": "Antarctis"
+    },
+    "AR": {
+        "iso3166": "AR",
+        "name": "Argentina"
+    },
+    "AS": {
+        "iso3166": "AS",
+        "name": "American Samoa",
+        "dependsfrom": "US",
+        "dependsname": "United States"
+    },
+    "AT": {
+        "iso3166": "AT",
+        "name": "Austria"
+    },
+    "AU": {
+        "iso3166": "AU",
+        "name": "Australia",
+        "dependencies": {
+            "CC": "Cocos Islands",
+            "CX": "Christmas Islands",
+            "HM": "Heard & McDonald Islands",
+            "NF": "Norfolk Island"
+        }
+    },
+    "AW": {
+        "iso3166": "AW",
+        "name": "Aruba",
+        "dependsfrom": "NL",
+        "dependsname": "Netherlands"
+    },
+    "AX": {
+        "iso3166": "AX",
+        "name": "Aland Islands",
+        "dependsfrom": "FI",
+        "dependsname": "Finland"
+    },
+    "AZ": {
+        "iso3166": "AZ",
+        "name": "Azerbaijan"
+    },
+    "BA": {
+        "iso3166": "BA",
+        "name": "Bosnia and Herzegovina"
+    },
+    "BB": {
+        "iso3166": "BB",
+        "name": "Barbados"
+    },
+    "BD": {
+        "iso3166": "BD",
+        "name": "Bangladesh"
+    },
+    "BE": {
+        "iso3166": "BE",
+        "name": "Belgium"
+    },
+    "BF": {
+        "iso3166": "BF",
+        "name": "Burkina Faso"
+    },
+    "BG": {
+        "iso3166": "BG",
+        "name": "Bulgaria"
+    },
+    "BH": {
+        "iso3166": "BH",
+        "name": "Bahrain"
+    },
+    "BI": {
+        "iso3166": "BI",
+        "name": "Burundi"
+    },
+    "BJ": {
+        "iso3166": "BJ",
+        "name": "Benin"
+    },
+    "BL": {
+        "iso3166": "BL",
+        "name": "Saint Barthélemy",
+        "dependsfrom": "FR",
+        "dependsname": "France"
+    },
+    "BM": {
+        "iso3166": "BM",
+        "name": "Bermuda",
+        "dependsfrom": "GB",
+        "dependsname": "United Kingdom"
+    },
+    "BN": {
+        "iso3166": "BN",
+        "name": "Brunei"
+    },
+    "BO": {
+        "iso3166": "BO",
+        "name": "Bolivia"
+    },
+    "BQ": {
+        "iso3166": "BQ",
+        "name": "Bonaire",
+        "dependsfrom": "NL",
+        "dependsname": "Netherlands"
+    },
+    "BR": {
+        "iso3166": "BR",
+        "name": "Brazil"
+    },
+    "BS": {
+        "iso3166": "BS",
+        "name": "Bahamas"
+    },
+    "BT": {
+        "iso3166": "BT",
+        "name": "Bhutan"
+    },
+    "BV": {
+        "iso3166": "BV",
+        "name": "Bouvet Island",
+        "dependsfrom": "NO",
+        "dependsname": "Norway"
+    },
+    "BW": {
+        "iso3166": "BW",
+        "name": "Botswana"
+    },
+    "BY": {
+        "iso3166": "BY",
+        "name": "Belarus"
+    },
+    "BZ": {
+        "iso3166": "BZ",
+        "name": "Belize"
+    },
+    "CA": {
+        "iso3166": "CA",
+        "name": "Canada"
+    },
+    "CC": {
+        "iso3166": "CC",
+        "name": "Cocos Islands",
+        "dependsfrom": "AU",
+        "dependsname": "Australia"
+    },
+    "CD": {
+        "iso3166": "CD",
+        "name": "Congo, Democratic Republic of the"
+    },
+    "CF": {
+        "iso3166": "CF",
+        "name": "Central African Republic"
+    },
+    "CG": {
+        "iso3166": "CG",
+        "name": "Congo"
+    },
+    "CH": {
+        "iso3166": "CH",
+        "name": "Switzerland"
+    },
+    "CI": {
+        "iso3166": "CI",
+        "name": "Côte d'Ivoire"
+    },
+    "CK": {
+        "iso3166": "CK",
+        "name": "Cook Islands",
+        "dependsfrom": "NZ",
+        "dependsname": "New Zealand"
+    },
+    "CL": {
+        "iso3166": "CL",
+        "name": "Chile"
+    },
+    "CM": {
+        "iso3166": "CM",
+        "name": "Cameroon"
+    },
+    "CN": {
+        "iso3166": "CN",
+        "name": "China",
+        "dependencies": {
+            "HK": "Hong Kong",
+            "MO": "Macau"
+        }
+    },
+    "CO": {
+        "iso3166": "CO",
+        "name": "Colombia"
+    },
+    "CP": {
+        "iso3166": "CP",
+        "name": "Clipperton Island",
+        "dependsfrom": "FR",
+        "dependsname": "France"
+    },
+    "CQ": {
+        "iso3166": "CQ",
+        "name": "Island of Sark",
+        "dependsfrom": "GB",
+        "dependsname": "United Kingdom"
+    },
+    "CR": {
+        "iso3166": "CR",
+        "name": "Costa Rica"
+    },
+    "CU": {
+        "iso3166": "CU",
+        "name": "Cuba"
+    },
+    "CV": {
+        "iso3166": "CV",
+        "name": "Cape Verde"
+    },
+    "CW": {
+        "iso3166": "CW",
+        "name": "Curaçao",
+        "dependsfrom": "NL",
+        "dependsname": "Netherlands"
+    },
+    "CX": {
+        "iso3166": "CX",
+        "name": "Christmas Islands",
+        "dependsfrom": "AU",
+        "dependsname": "Australia"
+    },
+    "CY": {
+        "iso3166": "CY",
+        "name": "Cyprus"
+    },
+    "CZ": {
+        "iso3166": "CZ",
+        "name": "Czech Republic"
+    },
+    "DE": {
+        "iso3166": "DE",
+        "name": "Germany"
+    },
+    "DJ": {
+        "iso3166": "DJ",
+        "name": "Djibouti"
+    },
+    "DK": {
+        "iso3166": "DK",
+        "name": "Denmark",
+        "dependencies": {
+            "FO": "Faroe Islands",
+            "GL": "Greenland"
+        }
+    },
+    "DM": {
+        "iso3166": "DM",
+        "name": "Dominica"
+    },
+    "DO": {
+        "iso3166": "DO",
+        "name": "Dominican Republic"
+    },
+    "DZ": {
+        "iso3166": "DZ",
+        "name": "Algeria",
+        "dependencies": {
+            "EH": "Western Sahara"
+        }
+    },
+    "EC": {
+        "iso3166": "EC",
+        "name": "Ecuador"
+    },
+    "EE": {
+        "iso3166": "EE",
+        "name": "Estonia"
+    },
+    "EG": {
+        "iso3166": "EG",
+        "name": "Egypt"
+    },
+    "EH": {
+        "iso3166": "EH",
+        "name": "Western Sahara",
+        "dependsfrom": "DZ",
+        "dependsname": "Algeria"
+    },
+    "ER": {
+        "iso3166": "ER",
+        "name": "Eritrea"
+    },
+    "ES": {
+        "iso3166": "ES",
+        "name": "Spain"
+    },
+    "ET": {
+        "iso3166": "ET",
+        "name": "Ethiopia"
+    },
+    "FI": {
+        "dependencies": {
+            "AX": "Aland Islands"
+        },
+        "iso3166": "FI",
+        "name": "Finland"
+    },
+    "FJ": {
+        "iso3166": "FJ",
+        "name": "Fiji"
+    },
+    "FK": {
+        "iso3166": "FK",
+        "name": "Falkland Islands",
+        "dependsfrom": "GB",
+        "dependsname": "United Kingdom"
+    },
+    "FM": {
+        "iso3166": "FM",
+        "name": "Micronesia"
+    },
+    "FO": {
+        "iso3166": "FO",
+        "name": "Faroe Islands",
+        "dependsfrom": "DK",
+        "dependsname": "Denmark"
+    },
+    "FR": {
+        "dependencies": {
+            "BL": "Saint Barthélemy",
+            "CP": "Clipperton Island",
+            "GF": "French Guiana",
+            "GP": "Guadeloupe",
+            "MF": "Saint Martin",
+            "MQ": "Martinique",
+            "NC": "New Caledonia",
+            "PF": "French Polynesia",
+            "PM": "Saint Pierre and Miquelon",
+            "RE": "Réunion",
+            "TF": "French Southern Territories",
+            "WF": "Wallis and Futuna",
+            "YT": "Mayotte"
+        },
+        "iso3166": "FR",
+        "name": "France"
+    },
+    "GA": {
+        "iso3166": "GA",
+        "name": "Gabon"
+    },
+    "GB": {
+        "dependencies": {
+            "AC": "Ascension",
+            "AI": "Anguilla",
+            "BM": "Bermuda",
+            "CQ": "Island of Sark",
+            "FK": "Falkland Islands",
+            "GG": "Guernsey",
+            "GI": "Gibraltar",
+            "GS": "South Georgia &  Sandwich",
+            "IM": "Isle of Man",
+            "IO": "Indian Ocean",
+            "JE": "Jersey",
+            "KY": "Cayman Islands",
+            "MS": "Montserrat",
+            "PN": "Pitcairn Islands",
+            "SH": "Saint Helena",
+            "TA": "Tristan da Cunha",
+            "TC": "Turks & Caicos",
+            "VG": "Virgin Islands, British"
+        },
+        "iso3166": "GB",
+        "name": "United Kingdom"
+    },
+    "GD": {
+        "iso3166": "GD",
+        "name": "Grenada"
+    },
+    "GE": {
+        "iso3166": "GE",
+        "name": "Georgia"
+    },
+    "GF": {
+        "iso3166": "GF",
+        "name": "French Guiana",
+        "dependsfrom": "FR",
+        "dependsname": "France"
+    },
+    "GG": {
+        "iso3166": "GG",
+        "name": "Guernsey",
+        "dependsfrom": "GB",
+        "dependsname": "United Kingdom"
+    },
+    "GH": {
+        "iso3166": "GH",
+        "name": "Ghana"
+    },
+    "GI": {
+        "iso3166": "GI",
+        "name": "Gibraltar",
+        "dependsfrom": "GB",
+        "dependsname": "United Kingdom"
+    },
+    "GL": {
+        "iso3166": "GL",
+        "name": "Greenland",
+        "dependsfrom": "DK",
+        "dependsname": "Denmark"
+    },
+    "GM": {
+        "iso3166": "GM",
+        "name": "Gambia"
+    },
+    "GN": {
+        "iso3166": "GN",
+        "name": "Guinea"
+    },
+    "GP": {
+        "iso3166": "GP",
+        "name": "Guadeloupe",
+        "dependsfrom": "FR",
+        "dependsname": "France"
+    },
+    "GQ": {
+        "iso3166": "GQ",
+        "name": "Equatorial Guinea"
+    },
+    "GR": {
+        "iso3166": "GR",
+        "name": "Greece"
+    },
+    "GS": {
+        "iso3166": "GS",
+        "name": "South Georgia &  Sandwich",
+        "dependsfrom": "GB",
+        "dependsname": "United Kingdom"
+    },
+    "GT": {
+        "iso3166": "GT",
+        "name": "Guatemala"
+    },
+    "GU": {
+        "iso3166": "GU",
+        "name": "Guam",
+        "dependsfrom": "US",
+        "dependsname": "United States"
+    },
+    "GW": {
+        "iso3166": "GW",
+        "name": "Guinea-Bissau"
+    },
+    "GY": {
+        "iso3166": "GY",
+        "name": "Guyana"
+    },
+    "HK": {
+        "iso3166": "HK",
+        "name": "Hong Kong",
+        "dependsfrom": "CN",
+        "dependsname": "China"
+    },
+    "HM": {
+        "iso3166": "HM",
+        "name": "Heard & McDonald Islands",
+        "dependsfrom": "AU",
+        "dependsname": "Australia"
+    },
+    "HN": {
+        "iso3166": "HN",
+        "name": "Honduras"
+    },
+    "HR": {
+        "iso3166": "HR",
+        "name": "Croatia"
+    },
+    "HT": {
+        "iso3166": "HT",
+        "name": "Haiti"
+    },
+    "HU": {
+        "iso3166": "HU",
+        "name": "Hungary"
+    },
+    "ID": {
+        "iso3166": "ID",
+        "name": "Indonesia"
+    },
+    "IE": {
+        "iso3166": "IE",
+        "name": "Ireland"
+    },
+    "IL": {
+        "iso3166": "IL",
+        "name": "Israel",
+        "dependencies": {
+            "PS": "Palestinian Territory",
+            "XG": "Gaza"
+        }
+    },
+    "IM": {
+        "iso3166": "IM",
+        "name": "Isle of Man",
+        "dependsfrom": "GB",
+        "dependsname": "United Kingdom"
+    },
+    "IN": {
+        "iso3166": "IN",
+        "name": "India"
+    },
+    "IO": {
+        "iso3166": "IO",
+        "name": "Indian Ocean",
+        "dependsfrom": "GB",
+        "dependsname": "United Kingdom"
+    },
+    "IQ": {
+        "iso3166": "IQ",
+        "name": "Iraq"
+    },
+    "IR": {
+        "iso3166": "IR",
+        "name": "Iran"
+    },
+    "IS": {
+        "iso3166": "IS",
+        "name": "Iceland"
+    },
+    "IT": {
+        "iso3166": "IT",
+        "name": "Italy"
+    },
+    "JE": {
+        "iso3166": "JE",
+        "name": "Jersey",
+        "dependsfrom": "GB",
+        "dependsname": "United Kingdom"
+    },
+    "JM": {
+        "iso3166": "JM",
+        "name": "Jamaica"
+    },
+    "JO": {
+        "iso3166": "JO",
+        "name": "Jordan"
+    },
+    "JP": {
+        "iso3166": "JP",
+        "name": "Japan"
+    },
+    "KE": {
+        "iso3166": "KE",
+        "name": "Kenya"
+    },
+    "KG": {
+        "iso3166": "KG",
+        "name": "Kyrgyzstan"
+    },
+    "KH": {
+        "iso3166": "KH",
+        "name": "Cambodia"
+    },
+    "KI": {
+        "iso3166": "KI",
+        "name": "Kiribati"
+    },
+    "KM": {
+        "iso3166": "KM",
+        "name": "Comoros"
+    },
+    "KN": {
+        "iso3166": "KN",
+        "name": "Saint Kitts and Nevis"
+    },
+    "KP": {
+        "iso3166": "KP",
+        "name": "Korea, Democratic People's Republic of"
+    },
+    "KR": {
+        "iso3166": "KR",
+        "name": "Korea, Republic of"
+    },
+    "KW": {
+        "iso3166": "KW",
+        "name": "Kuwait"
+    },
+    "KY": {
+        "iso3166": "KY",
+        "name": "Cayman Islands",
+        "dependsfrom": "GB",
+        "dependsname": "United Kingdom"
+    },
+    "KZ": {
+        "iso3166": "KZ",
+        "name": "Kazakhstan"
+    },
+    "LA": {
+        "iso3166": "LA",
+        "name": "Laos"
+    },
+    "LB": {
+        "iso3166": "LB",
+        "name": "Lebanon"
+    },
+    "LC": {
+        "iso3166": "LC",
+        "name": "Saint Lucia"
+    },
+    "LI": {
+        "iso3166": "LI",
+        "name": "Liechtenstein"
+    },
+    "LK": {
+        "iso3166": "LK",
+        "name": "Sri Lanka"
+    },
+    "LR": {
+        "iso3166": "LR",
+        "name": "Liberia"
+    },
+    "LS": {
+        "iso3166": "LS",
+        "name": "Lesotho"
+    },
+    "LT": {
+        "iso3166": "LT",
+        "name": "Lithuania"
+    },
+    "LU": {
+        "iso3166": "LU",
+        "name": "Luxembourg"
+    },
+    "LV": {
+        "iso3166": "LV",
+        "name": "Latvia"
+    },
+    "LY": {
+        "iso3166": "LY",
+        "name": "Libya"
+    },
+    "MA": {
+        "iso3166": "MA",
+        "name": "Morocco"
+    },
+    "MC": {
+        "iso3166": "MC",
+        "name": "Monaco"
+    },
+    "MD": {
+        "iso3166": "MD",
+        "name": "Moldova"
+    },
+    "ME": {
+        "iso3166": "ME",
+        "name": "Montenegro"
+    },
+    "MF": {
+        "iso3166": "MF",
+        "name": "Saint Martin",
+        "dependsfrom": "FR",
+        "dependsname": "France"
+    },
+    "MG": {
+        "iso3166": "MG",
+        "name": "Madagascar"
+    },
+    "MH": {
+        "iso3166": "MH",
+        "name": "Marshall Islands"
+    },
+    "MK": {
+        "iso3166": "MK",
+        "name": "North Macedonia"
+    },
+    "ML": {
+        "iso3166": "ML",
+        "name": "Mali"
+    },
+    "MM": {
+        "iso3166": "MM",
+        "name": "Myanmar"
+    },
+    "MN": {
+        "iso3166": "MN",
+        "name": "Mongolia"
+    },
+    "MO": {
+        "iso3166": "MO",
+        "name": "Macau",
+        "dependsfrom": "CN",
+        "dependsname": "China"
+    },
+    "MP": {
+        "iso3166": "MP",
+        "name": "Northern Mariana",
+        "dependsfrom": "US",
+        "dependsname": "United States"
+    },
+    "MQ": {
+        "iso3166": "MQ",
+        "name": "Martinique",
+        "dependsfrom": "FR",
+        "dependsname": "France"
+    },
+    "MR": {
+        "iso3166": "MR",
+        "name": "Mauritania"
+    },
+    "MS": {
+        "iso3166": "MS",
+        "name": "Montserrat",
+        "dependsfrom": "GB",
+        "dependsname": "United Kingdom"
+    },
+    "MT": {
+        "iso3166": "MT",
+        "name": "Malta"
+    },
+    "MU": {
+        "iso3166": "MU",
+        "name": "Mauritius"
+    },
+    "MV": {
+        "iso3166": "MV",
+        "name": "Maldives"
+    },
+    "MW": {
+        "iso3166": "MW",
+        "name": "Malawi"
+    },
+    "MX": {
+        "iso3166": "MX",
+        "name": "Mexico"
+    },
+    "MY": {
+        "iso3166": "MY",
+        "name": "Malaysia"
+    },
+    "MZ": {
+        "iso3166": "MZ",
+        "name": "Mozambique"
+    },
+    "NA": {
+        "iso3166": "NA",
+        "name": "Namibia"
+    },
+    "NC": {
+        "iso3166": "NC",
+        "name": "New Caledonia",
+        "dependsfrom": "FR",
+        "dependsname": "France"
+    },
+    "NE": {
+        "iso3166": "NE",
+        "name": "Niger"
+    },
+    "NF": {
+        "iso3166": "NF",
+        "name": "Norfolk Island",
+        "dependsfrom": "AU",
+        "dependsname": "Australia"
+    },
+    "NG": {
+        "iso3166": "NG",
+        "name": "Nigeria"
+    },
+    "NI": {
+        "iso3166": "NI",
+        "name": "Nicaragua"
+    },
+    "NL": {
+        "dependencies": {
+            "AW": "Aruba",
+            "BQ": "Bonaire",
+            "CW": "Curaçao",
+            "SX": "Sint Maarten"
+        },
+        "iso3166": "NL",
+        "name": "Netherlands"
+    },
+    "NO": {
+        "dependencies": {
+            "BV": "Bouvet Island",
+            "SJ": "Svalbard & Jan Mayen"
+        },
+        "iso3166": "NO",
+        "name": "Norway"
+    },
+    "NP": {
+        "iso3166": "NP",
+        "name": "Nepal"
+    },
+    "NR": {
+        "iso3166": "NR",
+        "name": "Nauru"
+    },
+    "NU": {
+        "iso3166": "NU",
+        "name": "Niue",
+        "dependsfrom": "NZ",
+        "dependsname": "New Zealand"
+    },
+    "NZ": {
+        "dependencies": {
+            "CK": "Cook Islands",
+            "NU": "Niue",
+            "TK": "Tokelau "
+        },
+        "iso3166": "NZ",
+        "name": "New Zealand"
+    },
+    "OM": {
+        "iso3166": "OM",
+        "name": "Oman"
+    },
+    "PA": {
+        "iso3166": "PA",
+        "name": "Panama"
+    },
+    "PE": {
+        "iso3166": "PE",
+        "name": "Peru"
+    },
+    "PF": {
+        "iso3166": "PF",
+        "name": "French Polynesia",
+        "dependsfrom": "FR",
+        "dependsname": "France"
+    },
+    "PG": {
+        "iso3166": "PG",
+        "name": "Papua New Guinea"
+    },
+    "PH": {
+        "iso3166": "PH",
+        "name": "Philippines"
+    },
+    "PK": {
+        "iso3166": "PK",
+        "name": "Pakistan"
+    },
+    "PL": {
+        "iso3166": "PL",
+        "name": "Poland"
+    },
+    "PM": {
+        "iso3166": "PM",
+        "name": "Saint Pierre and Miquelon",
+        "dependsfrom": "FR",
+        "dependsname": "France"
+    },
+    "PN": {
+        "iso3166": "PN",
+        "name": "Pitcairn Islands",
+        "dependsfrom": "GB",
+        "dependsname": "United Kingdom"
+    },
+    "PR": {
+        "iso3166": "PR",
+        "name": "Puerto Rico ",
+        "dependsfrom": "US",
+        "dependsname": "United States"
+    },
+    "PS": {
+        "iso3166": "PS",
+        "name": "Palestinian Territory",
+        "dependsfrom": "IL",
+        "dependsname": "Israel"
+    },
+    "PT": {
+        "iso3166": "PT",
+        "name": "Portugal"
+    },
+    "PW": {
+        "iso3166": "PW",
+        "name": "Palau"
+    },
+    "PY": {
+        "iso3166": "PY",
+        "name": "Paraguay"
+    },
+    "QA": {
+        "iso3166": "QA",
+        "name": "Qatar"
+    },
+    "RE": {
+        "iso3166": "RE",
+        "name": "Réunion",
+        "dependsfrom": "FR",
+        "dependsname": "France"
+    },
+    "RO": {
+        "iso3166": "RO",
+        "name": "Romania"
+    },
+    "RS": {
+        "iso3166": "RS",
+        "name": "Serbia"
+    },
+    "RU": {
+        "iso3166": "RU",
+        "name": "Russian Federation",
+        "dependencies": {
+            "XA": "Abkhazia",
+            "XO": "South Ossetia",
+            "XT": "Transnistria"
+        }
+    },
+    "RW": {
+        "iso3166": "RW",
+        "name": "Rwanda"
+    },
+    "SA": {
+        "iso3166": "SA",
+        "name": "Saudi Arabia"
+    },
+    "SB": {
+        "iso3166": "SB",
+        "name": "Solomon Islands"
+    },
+    "SC": {
+        "iso3166": "SC",
+        "name": "Seychelles"
+    },
+    "SD": {
+        "iso3166": "SD",
+        "name": "Sudan"
+    },
+    "SE": {
+        "iso3166": "SE",
+        "name": "Sweden"
+    },
+    "SG": {
+        "iso3166": "SG",
+        "name": "Singapore"
+    },
+    "SH": {
+        "iso3166": "SH",
+        "name": "Saint Helena",
+        "dependsfrom": "GB",
+        "dependsname": "United Kingdom"
+    },
+    "SI": {
+        "iso3166": "SI",
+        "name": "Slovenia"
+    },
+    "SJ": {
+        "iso3166": "SJ",
+        "name": "Svalbard & Jan Mayen",
+        "dependsfrom": "NO",
+        "dependsname": "Norway"
+    },
+    "SK": {
+        "iso3166": "SK",
+        "name": "Slovakia"
+    },
+    "SL": {
+        "iso3166": "SL",
+        "name": "Sierra Leone"
+    },
+    "SM": {
+        "iso3166": "SM",
+        "name": "San Marino"
+    },
+    "SN": {
+        "iso3166": "SN",
+        "name": "Senegal"
+    },
+    "SO": {
+        "iso3166": "SO",
+        "name": "Somalia",
+        "dependencies": {
+            "XS": "Somaliland"
+        }
+    },
+    "SR": {
+        "iso3166": "SR",
+        "name": "Suriname"
+    },
+    "SS": {
+        "iso3166": "SS",
+        "name": "South Sudan"
+    },
+    "ST": {
+        "iso3166": "ST",
+        "name": "São Tomé and Príncipe"
+    },
+    "SV": {
+        "iso3166": "SV",
+        "name": "El Salvador"
+    },
+    "SX": {
+        "iso3166": "SX",
+        "name": "Sint Maarten",
+        "dependsfrom": "NL",
+        "dependsname": "Netherlands"
+    },
+    "SY": {
+        "iso3166": "SY",
+        "name": "Syria"
+    },
+    "SZ": {
+        "iso3166": "SZ",
+        "name": "Eswatini"
+    },
+    "TA": {
+        "iso3166": "TA",
+        "name": "Tristan da Cunha",
+        "dependsfrom": "GB",
+        "dependsname": "United Kingdom"
+    },
+    "TC": {
+        "iso3166": "TC",
+        "name": "Turks & Caicos",
+        "dependsfrom": "GB",
+        "dependsname": "United Kingdom"
+    },
+    "TD": {
+        "iso3166": "TD",
+        "name": "Chad"
+    },
+    "TF": {
+        "iso3166": "TF",
+        "name": "French Southern Territories",
+        "dependsfrom": "FR",
+        "dependsname": "France"
+    },
+    "TG": {
+        "iso3166": "TG",
+        "name": "Togo"
+    },
+    "TH": {
+        "iso3166": "TH",
+        "name": "Thailand"
+    },
+    "TJ": {
+        "iso3166": "TJ",
+        "name": "Tajikistan"
+    },
+    "TK": {
+        "iso3166": "TK",
+        "name": "Tokelau ",
+        "dependsfrom": "NZ",
+        "dependsname": "New Zealand"
+    },
+    "TL": {
+        "iso3166": "TL",
+        "name": "Timor-Leste"
+    },
+    "TM": {
+        "iso3166": "TM",
+        "name": "Turkmenistan"
+    },
+    "TN": {
+        "iso3166": "TN",
+        "name": "Tunisia"
+    },
+    "TO": {
+        "iso3166": "TO",
+        "name": "Tonga"
+    },
+    "TR": {
+        "iso3166": "TR",
+        "name": "Turkey",
+        "dependencies": {
+            "XC": "Northern Cyprus"
+        }
+    },
+    "TT": {
+        "iso3166": "TT",
+        "name": "Trinidad and Tobago"
+    },
+    "TV": {
+        "iso3166": "TV",
+        "name": "Tuvalu"
+    },
+    "TW": {
+        "iso3166": "TW",
+        "name": "Taiwan"
+    },
+    "TZ": {
+        "iso3166": "TZ",
+        "name": "Tanzania"
+    },
+    "UA": {
+        "iso3166": "UA",
+        "name": "Ukraine"
+    },
+    "UG": {
+        "iso3166": "UG",
+        "name": "Uganda"
+    },
+    "UM": {
+        "iso3166": "UM",
+        "name": "United States Minor Islands",
+        "dependsfrom": "US",
+        "dependsname": "United States"
+    },
+    "US": {
+        "dependencies": {
+            "AS": "American Samoa",
+            "GU": "Guam",
+            "MP": "Northern Mariana",
+            "PR": "Puerto Rico ",
+            "UM": "United States Minor Islands",
+            "VI": "Virgin Islands, U.S."
+        },
+        "iso3166": "US",
+        "name": "United States"
+    },
+    "UY": {
+        "iso3166": "UY",
+        "name": "Uruguay"
+    },
+    "UZ": {
+        "iso3166": "UZ",
+        "name": "Uzbekistan"
+    },
+    "VA": {
+        "iso3166": "VA",
+        "name": "Holy See"
+    },
+    "VC": {
+        "iso3166": "VC",
+        "name": "Saint Vincent and the Grenadines"
+    },
+    "VE": {
+        "iso3166": "VE",
+        "name": "Venezuela"
+    },
+    "VG": {
+        "iso3166": "VG",
+        "name": "Virgin Islands, British",
+        "dependsfrom": "GB",
+        "dependsname": "United Kingdom"
+    },
+    "VI": {
+        "iso3166": "VI",
+        "name": "Virgin Islands, U.S.",
+        "dependsfrom": "US",
+        "dependsname": "United States"
+    },
+    "VN": {
+        "iso3166": "VN",
+        "name": "Vietnam"
+    },
+    "VU": {
+        "iso3166": "VU",
+        "name": "Vanuatu"
+    },
+    "WF": {
+        "iso3166": "WF",
+        "name": "Wallis and Futuna",
+        "dependsfrom": "FR",
+        "dependsname": "France"
+    },
+    "WS": {
+        "iso3166": "WS",
+        "name": "Samoa"
+    },
+    "XA": {
+        "iso3166": "XA",
+        "name": "Abkhazia",
+        "dependsfrom": "RU",
+        "dependsname": "Russia"
+    },
+    "XC": {
+        "iso3166": "XC",
+        "name": "Northern Cyprus",
+        "dependsfrom": "TR",
+        "dependsname": "Turkey"
+    },
+    "XG": {
+        "iso3166": "XG",
+        "name": "Gaza",
+        "dependsfrom": "IL",
+        "dependsname": "Israel"
+    },
+    "XO": {
+        "iso3166": "XO",
+        "name": "South Ossetia",
+        "dependsfrom": "RU",
+        "dependsname": "Russia"
+    },
+    "XS": {
+        "iso3166": "XS",
+        "name": "Somaliland",
+        "dependsfrom": "SO",
+        "dependsname": "Somalia"
+    },
+    "XT": {
+        "iso3166": "XT",
+        "name": "Transnistria",
+        "dependsfrom": "RU",
+        "dependsname": "Russia"
+    },
+    "YE": {
+        "iso3166": "YE",
+        "name": "Yemen"
+    },
+    "YT": {
+        "iso3166": "YT",
+        "name": "Mayotte",
+        "dependsfrom": "FR",
+        "dependsname": "France"
+    },
+    "ZA": {
+        "iso3166": "ZA",
+        "name": "South Africa"
+    },
+    "ZM": {
+        "iso3166": "ZM",
+        "name": "Zambia"
+    },
+    "ZW": {
+        "iso3166": "ZW",
+        "name": "Zimbabwe"
+    }
+}
